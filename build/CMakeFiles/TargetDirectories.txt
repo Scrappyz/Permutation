@@ -1,3 +1,0 @@
-D:/Documents/Codes/VS Code/C++/Permutations/build/CMakeFiles/Permutations.dir
-D:/Documents/Codes/VS Code/C++/Permutations/build/CMakeFiles/edit_cache.dir
-D:/Documents/Codes/VS Code/C++/Permutations/build/CMakeFiles/rebuild_cache.dir
