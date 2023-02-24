@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/Documents/Codes/VS Code/C++/Permutations/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Permutations.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\Permutations.dir\\src\\combination.cpp.obj -c \"D:\\Documents\\Codes\\VS Code\\C++\\Permutations\\src\\combination.cpp\"",
+  "file": "D:/Documents/Codes/VS Code/C++/Permutations/src/combination.cpp"
+},
+{
+  "directory": "D:/Documents/Codes/VS Code/C++/Permutations/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Permutations.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\Permutations.dir\\src\\main.cpp.obj -c \"D:\\Documents\\Codes\\VS Code\\C++\\Permutations\\src\\main.cpp\"",
+  "file": "D:/Documents/Codes/VS Code/C++/Permutations/src/main.cpp"
+},
+{
+  "directory": "D:/Documents/Codes/VS Code/C++/Permutations/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Permutations.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\Permutations.dir\\src\\permutation.cpp.obj -c \"D:\\Documents\\Codes\\VS Code\\C++\\Permutations\\src\\permutation.cpp\"",
+  "file": "D:/Documents/Codes/VS Code/C++/Permutations/src/permutation.cpp"
+}
+]
